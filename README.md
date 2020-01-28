@@ -4,8 +4,8 @@ These are my solutions of labsheets for Object Oriented Programming (CS F213)
 
 ## Lab 1 
 
-    Introduction to Java
-    Command Line Arguments
+    1. Introduction to Java
+    2. Command Line Arguments
 
 ## Lab 2
 
