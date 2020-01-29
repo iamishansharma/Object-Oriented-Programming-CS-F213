@@ -1,6 +1,6 @@
 # Object-Oriented-Programming-CS-F213
 
-These are my solutions of labsheets for Object Oriented Programming (CS F213)
+These are my solutions of labsheets for Object Oriented Programming (CS F213) at BITS Pilani, Fall 2018
 
 ## Lab 1 
 
