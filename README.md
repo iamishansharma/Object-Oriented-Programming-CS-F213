@@ -9,7 +9,8 @@ These are my solutions of labsheets for Object Oriented Programming (CS F213) at
 
 ## Lab 2
 
-
+	1. Reading inputs from user
+	2. Class Design Basics [Part - 1]
 
 ## Lab 3
 
